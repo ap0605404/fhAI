@@ -12250,7 +12250,7 @@
   border-width:0px;
   position:absolute;
   left:22px;
-  top:2042px;
+  top:1995px;
   width:1110px;
   height:24px;
   font-size:20px;
@@ -14580,5 +14580,40 @@
   left:10px;
   top:10px;
   width:211px;
+  word-wrap:break-word;
+}
+#u2813_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1228px;
+  height:24px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-size:20px;
+  color:#000000;
+}
+#u2813 {
+  border-width:0px;
+  position:absolute;
+  left:22px;
+  top:2043px;
+  width:1228px;
+  height:24px;
+  font-size:20px;
+  color:#000000;
+}
+#u2813_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1228px;
   word-wrap:break-word;
 }
